@@ -1,0 +1,14 @@
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/bin/Debug/net9.0/3_dsa_project
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/bin/Debug/net9.0/3_dsa_project.deps.json
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/bin/Debug/net9.0/3_dsa_project.runtimeconfig.json
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/bin/Debug/net9.0/3_dsa_project.dll
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/bin/Debug/net9.0/3_dsa_project.pdb
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.AssemblyInfoInputs.cache
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.AssemblyInfo.cs
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.csproj.CoreCompileInputs.cache
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.dll
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/refint/3_dsa_project.dll
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.pdb
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.genruntimeconfig.cache
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/ref/3_dsa_project.dll
