@@ -12,3 +12,4 @@
 /Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.pdb
 /Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.genruntimeconfig.cache
 /Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/ref/3_dsa_project.dll
+/Users/rafaelsumiya/Documents/projects/college/3_dsa_project/obj/Debug/net9.0/3_dsa_project.sourcelink.json
